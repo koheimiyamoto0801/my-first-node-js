@@ -1,0 +1,16 @@
+[truthy な値]
+true
+0 以外の数値
+1 文字以上含まれている文字列（string）
+オブジェクト
+コレクション
+関数
+など	
+
+[falsy な値]
+false
+0
+""（1 文字も含まれていない文字列(string)）
+null
+undefined
+NaN
